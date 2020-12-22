@@ -8,4 +8,6 @@
 
 3. 'create_data_viz.R' to analyze the final posterior samples and produce the graphics used in my thesis.
 
-## *NOTE:* For replication of plots, please utilize the data viz script and do not attempt to download the data or run the model. Downloading the dataset from PISA can take upwards of an hour (so I have provided the post cleaning dataset) and running the model took 5 days original (so I have provided the posterior samples).
+### *NOTE:* For replication of plots, please utilize the data viz script and do not attempt to download the data or run the model. Downloading the dataset from PISA can take upwards of an hour (so I have provided the post cleaning dataset) and running the model took 5 days original (so I have provided the posterior samples).
+
+### *Note:* To work with the posterior samples and produce plots, you will need to have the .rds file (which I can email to you) and place the .rds within the 'Samples' folder.
